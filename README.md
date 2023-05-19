@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MRBigglesworth637
 - 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...how to wreck my computer lol
-- 💞️ I’m looking to collaborate on ...the ukn
+- 🌱 I’m currently learning ...how to wreck my computer no really I'm just trying to learn how to use the resources here to make my life easier
+- 💞️ I’m looking to collaborate on ????
 - 📫 How to reach me 
 
 <!---
