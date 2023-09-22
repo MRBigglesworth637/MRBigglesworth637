@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MRBigglesworth637
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...how to wreck my computer no really I'm just trying to learn how to use the resources here to make my life easier
-- 💞️ I’m looking to collaborate on ????
+- 👀 I’m interested currently in audio recording ,signal analysis , speech detection / recognition, speech to text  processing  in a  Noisy environment 
+
+- 🌱 I’m currently learning ...how to wreck my computer and everything on it lol I need help in every aspect of this pretty much except for the concept really Im  trying to learn how to use the resources here 
+- 💞️ I’m looking to collaborate on making an application that's compatible with primarily Apple & Android with a secure file manager for Mac or PC 
 - 📫 How to reach me 
 
 <!---
